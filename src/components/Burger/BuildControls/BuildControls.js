@@ -14,9 +14,10 @@ const buildControls =(props)=>(
             <BuildControl label={ctrl.label} key={ctrl.type}
             clicked={()=>props.ingredientsAdded(ctrl.type)}
             removed={()=>props.ingredientRemoved(ctrl.type)}
+            
             />
         ))}
-        
+        <button className="OrderButton" disabled={!props.purchasable}>Order Now</button>
     </div>
 );
 export default buildControls;
