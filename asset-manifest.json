@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/burger-shop/static/css/main.fca2d302.chunk.css",
-    "main.js": "/burger-shop/static/js/main.5205c3f8.chunk.js",
-    "main.js.map": "/burger-shop/static/js/main.5205c3f8.chunk.js.map",
-    "runtime-main.js": "/burger-shop/static/js/runtime-main.cdddddd4.js",
-    "runtime-main.js.map": "/burger-shop/static/js/runtime-main.cdddddd4.js.map",
+    "main.css": "/burger-shop/static/css/main.5b38a974.chunk.css",
+    "main.js": "/burger-shop/static/js/main.b1f60372.chunk.js",
+    "main.js.map": "/burger-shop/static/js/main.b1f60372.chunk.js.map",
+    "runtime-main.js": "/burger-shop/static/js/runtime-main.943d079e.js",
+    "runtime-main.js.map": "/burger-shop/static/js/runtime-main.943d079e.js.map",
     "static/js/2.8d42661b.chunk.js": "/burger-shop/static/js/2.8d42661b.chunk.js",
     "static/js/2.8d42661b.chunk.js.map": "/burger-shop/static/js/2.8d42661b.chunk.js.map",
-    "static/js/3.5e354ec9.chunk.js": "/burger-shop/static/js/3.5e354ec9.chunk.js",
-    "static/js/3.5e354ec9.chunk.js.map": "/burger-shop/static/js/3.5e354ec9.chunk.js.map",
+    "static/js/3.15087bc4.chunk.js": "/burger-shop/static/js/3.15087bc4.chunk.js",
+    "static/js/3.15087bc4.chunk.js.map": "/burger-shop/static/js/3.15087bc4.chunk.js.map",
     "index.html": "/burger-shop/index.html",
-    "static/css/main.fca2d302.chunk.css.map": "/burger-shop/static/css/main.fca2d302.chunk.css.map",
+    "static/css/main.5b38a974.chunk.css.map": "/burger-shop/static/css/main.5b38a974.chunk.css.map",
     "static/js/2.8d42661b.chunk.js.LICENSE.txt": "/burger-shop/static/js/2.8d42661b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cdddddd4.js",
+    "static/js/runtime-main.943d079e.js",
     "static/js/2.8d42661b.chunk.js",
-    "static/css/main.fca2d302.chunk.css",
-    "static/js/main.5205c3f8.chunk.js"
+    "static/css/main.5b38a974.chunk.css",
+    "static/js/main.b1f60372.chunk.js"
   ]
 }
